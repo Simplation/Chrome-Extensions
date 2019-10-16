@@ -31,9 +31,9 @@
 | Dark Reader            | *一款暗黑色的阅读扩展.，适用于任何网站。关爱眼睛，就使用Dark Reader进行夜间和日间浏览* | https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN |
 | 简悦 - SimpRead        | *一款可以让你瞬间进入沉浸式阅读的  Chrome 扩展，类似 Safari 的阅读模式。 包含 聚焦模式和阅读模式两种。* | https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll?hl=zh-CN |
 | 书签侧边栏             | *一款可以在浏览器视图区左侧添加固定式的, 管理所有书签的侧边栏的扩展.* | https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=zh-CN |
-| 几枝                   | 一款高颜值的新标签页面，会在你每次打开新标签页时展示一句经典古诗词，配合层叠涌动的波浪或气泡背景，婉约如江南山水，让你的 Chrome 与众不同。 | 稍后补链接！！！                                             |
-| Web Clipper            | 一款可以将网页上的内容「剪辑」下来，并一键保存至数种云笔记服务。印象笔记剪藏等工具相比，Web Clipper 支持智能提取、手动框选及自由编辑选中区域，还允许你将网页转换为 Markdown 格式，满足多种需求。 | 稍后补链接！！！                                             |
-| DownThemAll!           | DownThemAll!是 Firefox 平台的老牌下载增强扩展，现已支持 Chrome | 稍后补链接！！！                                             |
+| 几枝                   | 一款高颜值的新标签页面，会在你每次打开新标签页时展示一句经典古诗词，配合层叠涌动的波浪或气泡背景，婉约如江南山水，让你的 Chrome 与众不同。 | https://chrome.google.com/webstore/detail/几枝/hfohpokminpknagcgncibpacohagppjn?hl=zh-CN |
+| Web Clipper            | 一款可以将网页上的内容「剪辑」下来，并一键保存至数种云笔记服务。印象笔记剪藏等工具相比，Web Clipper 支持智能提取、手动框选及自由编辑选中区域，还允许你将网页转换为 Markdown 格式，满足多种需求。 | https://chrome.google.com/webstore/detail/web-clipper-nimbus/kiokdhlcmjagacmcgoikapbjmmhfchbi?hl=zh-CN |
+| DownThemAll!           | DownThemAll!是 Firefox 平台的老牌下载增强扩展，现已支持 Chrome | https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge?hl=zh-CN |
 
 ##### 开发工具类
 
