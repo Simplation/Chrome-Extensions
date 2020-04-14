@@ -1,6 +1,9 @@
+
+
 <p align="center">
 <img alt="Chrome-Extensions" src="https://github.com/Simplation/Chrome-Extensions/blob/master/sources/Chrome-Extensions.png?raw=true">
 </p>
+
 
 
 # Chrome-Extensions  
@@ -51,12 +54,14 @@
 
 ##### 开发工具类
 
-| 名称                               | 说明                                                         | 🔗                                                         |
+| 名称                               | 说明                                                         | 🔗                                                            |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | JavaScript and CSS Code Beautifier | *一款可以格式化 js、css、json 文件的扩展。打开 .css / .js / .json 文件时，可以美化 CSS，JavaScript 和 JSON 代码。* | https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=zh-CN |
 | JSON View                          | *一款可以验证、查看、并格式化 JSON 文档的扩展。*             | https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN |
 | Web Scraper                        | *一款可以抓取网页数据的扩展l（爬虫）。*                      | https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn?hl=zh-CN |
 | Octotree                           | *一款以树形结构显示 Github 仓库的代码，省去一级一级查找。堪称浏览 Github 必备拓展。* | https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN |
+| Sourcegraph                        | *类似于 Octotree，个人感觉比 Octotree 好用*                  | https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=zh-CN |
+| Gitako                             | *类似于 Octotree 和 Sourcegraph 插件， 以树形结构显示 Github 仓库的代码。* | https://chrome.google.com/webstore/detail/gitako/giljefjcheohhamkjphiebfjnlphnokk?hl=zh-CN |
 | Reggy                              | *一款可以创建随机身份并在几秒钟内注册任何网站！ Reggy 还包括一个内置的表格填充物。* | https://chrome.google.com/webstore/detail/reggy/pnneajlgffpejnabhionnhdfhibijihe?hl=zh-CN |
 | Postman                            | *一款可以进行各种请求方式验证的扩展，如 Get、Post、Delete、等等。* | https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=zh-CN    https://chrome.google.com/webstore/detail/tabbed-postman-rest-clien/coohjcphdfgbiolnekdpbcijmhambjff?hl=zh-CN |
 | Vysor                              | *一款无需 root, 能够在 Chrome 里通过 USB 直接控制 Android 设备的扩展。* | https://chrome.google.com/webstore/detail/android-device-control-fr/molbiejnoondcinbfkhlcokoldjjikbl?hl=zh-CN |
@@ -77,7 +82,7 @@
 
 ##### 社交工具类
 
-| 名称                     | 说明                                                         | 🔗                                                         |
+| 名称                     | 说明                                                         | 🔗                                                            |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 眼不见心不烦（新浪微博） | *一款可以无限制地屏蔽关键词、用户、来源，去除页面广告和推广微博，反刷屏的扩展，还您一个清爽干净的微博！* | [https://chrome.google.com/webstore/detail/%E7%9C%BC%E4%B8%8D%E8%A7%81%E5%BF%83%E4%B8%8D%E7%83%A6%EF%BC%88%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%EF%BC%89/aognaapdfnnldnjglanfbbklaakbpejm?hl=zh-CN](https://chrome.google.com/webstore/detail/眼不见心不烦（新浪微博）/aognaapdfnnldnjglanfbbklaakbpejm?hl=zh-CN) |
 | 一起惠购物助手           | *一款购物省钱必备助手插件，集返利、查货、比价、跟单、价格走势于一体* | [https://chrome.google.com/webstore/detail/%E4%B8%80%E8%B5%B7%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/jjcbbdnfiapchhkemifphepfgilhdokf?hl=zh-CN](https://chrome.google.com/webstore/detail/一起惠购物助手/jjcbbdnfiapchhkemifphepfgilhdokf?hl=zh-CN) |
@@ -85,6 +90,6 @@
 
 ##### 转换工具类
 
-| 名称         | 说明                                                     | 🔗                                                         |
+| 名称         | 说明                                                     | 🔗                                                            |
 | ------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
 | FromDocToPDF | *一款可以把 doc 文件快速地转换成 pdf 文件的 chrome 扩展* | https://chrome.google.com/webstore/detail/pdf-viewer-converter-by-f/chnacmlpiecdhgkdgeoipkmdbekengck?hl=zh-CN |
