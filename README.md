@@ -1,24 +1,29 @@
-
-
-<p align="center">
-<img alt="Chrome-Extensions" src="https://github.com/Simplation/Chrome-Extensions/blob/master/sources/Chrome-Extensions.png?raw=true">
+<h1 align="center">Welcome to Chrome-Extensions 👋</h1>
+<p>
 </p>
 
+## Chrome-Extensions
+希望整理 Chrome 最全面的插件，提升工作和生活的效率。一个人的能力毕竟有限，如若有误，欢迎指正。同时，如果各位小伙伴有更好的扩展，欢迎补充和完善。
+注：以下链接需要能够正常访问 Chrome 网上应用店方能正常下载。
 
-
-# Chrome-Extensions  
 
 :heart: [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE)
 
 #### 传播:heart:
 
-[![GitHub stars](https://img.shields.io/github/stars/Simplation/Chrome-Extensions.svg?style=social&label=Star)](https://github.com/Simplation/Chrome-Extensions) [![GitHub forks](https://img.shields.io/github/forks/Simplation/Chrome-Extensions.svg?style=social&label=Fork)](https://github.com/Simplation/Chrome-Extensions/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Simplation/Chrome-Extensions.svg?style=social&label=Watch)](https://github.com/Simplation/Chrome-Extensions)[![GitHub followers](https://img.shields.io/github/followers/Simplation.svg?style=social&label=Follow)](https://github.com/Simplation)  
+[![GitHub stars](https://img.shields.io/github/stars/Simplation/Chrome-Extensions.svg?style=social&label=Star)](https://github.com/Simplation/Chrome-Extensions) [![GitHub forks](https://img.shields.io/github/forks/Simplation/Chrome-Extensions.svg?style=social&label=Fork)](https://github.com/Simplation/Chrome-Extensions/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Simplation/Chrome-Extensions.svg?style=social&label=Watch)](https://github.com/Simplation/Chrome-Extensions)[![GitHub followers](https://img.shields.io/github/followers/Simplation.svg?style=social&label=Follow)](https://github.com/Simplation)
 
-#### 关于
+<p align="center">
+<img alt="Chrome-Extensions" src="https://github.com/Simplation/Chrome-Extensions/blob/master/sources/Chrome-Extensions.png?raw=true">
+</p>
 
-希望整理 Chrome 最全面的插件，提升工作和生活的效率。一个人的能力毕竟有限，如若有误，欢迎指正。同时，如果各位小伙伴有更好的扩展，欢迎补充和完善。
+## Category
 
-注：以下链接需要能够正常访问 Chrome 网上应用店方能正常下载。
+- 办公工具类
+- 开发工具类
+- 社交工具类
+- 转换工具类
+
 
 ##### 办公工具类
 
@@ -93,3 +98,15 @@
 | 名称         | 说明                                                     | 🔗                                                            |
 | ------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
 | FromDocToPDF | *一款可以把 doc 文件快速地转换成 pdf 文件的 chrome 扩展* | https://chrome.google.com/webstore/detail/pdf-viewer-converter-by-f/chnacmlpiecdhgkdgeoipkmdbekengck?hl=zh-CN |
+
+
+## About
+
+👤 **Simplation**
+
+- Github ： https://github.com/Simplation/
+- 个人博客：http://www.simplation.wang/
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
