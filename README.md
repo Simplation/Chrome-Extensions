@@ -2,7 +2,9 @@
 <p>
 </p>
 
+
 ## Chrome-Extensions
+
 希望整理 Chrome 最全面的插件，提升工作和生活的效率。一个人的能力毕竟有限，如若有误，欢迎指正。同时，如果各位小伙伴有更好的扩展，欢迎补充和完善。
 注：以下链接需要能够正常访问 Chrome 网上应用店方能正常下载。
 
@@ -16,6 +18,7 @@
 <p align="center">
 <img alt="Chrome-Extensions" src="https://github.com/Simplation/Chrome-Extensions/blob/master/sources/Chrome-Extensions.png?raw=true">
 </p>
+
 
 ## Category
 
@@ -56,6 +59,10 @@
 | 新浪微博图床                        | *支持选择/拖拽/粘贴上传图片,并生成图片地址,HTML,UBB和 Markdown等格式,支持浏览和删除历史记录* | [https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf?hl=zh-CN](https://chrome.google.com/webstore/detail/新浪微博图床/fdfdnfpdplfbbnemmmoklbfjbhecpnhf?hl=zh-CN) |
 | Imagus                              | *图片放大镜、链接预览插件*                                   | https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=zh-CN |
 | 一键管理所有扩展                    | *功能如名称一样直白*                                         | [https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%A9%E5%B1%95/lboblnfejcmcaplhnbkkfcienhlhpnni?hl=zh-CN](https://chrome.google.com/webstore/detail/一键管理扩展/lboblnfejcmcaplhnbkkfcienhlhpnni?hl=zh-CN) |
+| Raindrop.io                         | 一款融合了书签管理、稍后阅读以及手机剪贴功能的综合性管理工具,非常值得信赖的老牌收藏管理工具, | https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien?hl=zh-CN |
+| Fiteprint                           | 帮助你梳理浏览记录的插件，让你的历史记录不再眼花缭乱。       | https://chrome.google.com/webstore/detail/fiteprint-current-site-hi/aifnngnkjcdamfofbfldbnighkjkkmbp?hl=zh-CN |
+| Bookmarkify                         | 为长文章加入章节标签，方便下次继续阅读。                     | https://chrome.google.com/webstore/detail/bookmarkify/dnbnfomolmfanljmiaeenbmdefpiaadd?hl=zh-CN |
+| Survol                              | 将鼠标悬停在超链接上，预览链接的内容。                       | https://chrome.google.com/webstore/detail/survol/fdnnmbmkgfdjclkgimonnimokhnndalk?hl=zh-CN |
 
 ##### 开发工具类
 
@@ -84,6 +91,7 @@
 | Search by Image                    | *以图搜图神器*                                               | https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm?hl=zh-CN |
 | WhatRuns                           | *一款用于了解网站技术的chrome网站技术分析工具，主要能通过分析网站页面所使用的框架、代码等技术以及页面所使用的样式等方面，让使用者能直观的了解网站的整体技术信息。* | https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=zh-CN |
 | AlloyDesigner                      | *一款来自 Tencent AlloyTeam的前端开发工具，主要功能是加载Web页面的视觉稿，结合开发者工具(F12)进行页面的开发和调整。* | https://chrome.google.com/webstore/detail/alloydesigner/ojooeaohlmgpcjajikhmibcnbebfenid?hl=zh-CN |
+| Mosaic                             | 简单实用的配色灵感工具                                       | https://chrome.google.com/webstore/detail/mosaic/eimhoaekjnojedgcoikkiijnphklhfml?hl=zh-CN |
 
 ##### 社交工具类
 
