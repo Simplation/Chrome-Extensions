@@ -69,7 +69,7 @@
 | 名称                               | 说明                                                         | 🔗                                                            |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | JavaScript and CSS Code Beautifier | *一款可以格式化 js、css、json 文件的扩展。打开 .css / .js / .json 文件时，可以美化 CSS，JavaScript 和 JSON 代码。* | https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=zh-CN |
-| JSON View                          | *一款可以验证、查看、并格式化 JSON 文档的扩展。*             | https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN |
+| Json View                          | *一款可以验证、查看、并格式化 JSON 文档的扩展。*             | https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-CN |
 | Web Scraper                        | *一款可以抓取网页数据的扩展l（爬虫）。*                      | https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn?hl=zh-CN |
 | Octotree                           | *一款以树形结构显示 Github 仓库的代码，省去一级一级查找。堪称浏览 Github 必备拓展。* | https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN |
 | Sourcegraph                        | *类似于 Octotree，个人感觉比 Octotree 好用*                  | https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=zh-CN |
@@ -79,7 +79,8 @@
 | Vysor                              | *一款无需 root, 能够在 Chrome 里通过 USB 直接控制 Android 设备的扩展。* | https://chrome.google.com/webstore/detail/android-device-control-fr/molbiejnoondcinbfkhlcokoldjjikbl?hl=zh-CN |
 | Xpath Helper                       | *一款支持在网页点击元素生成xpath，整个抓取使用了xpath、正则表达式、消息中间件、多线程调度框架的chrome插件。* | https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-CN |
 | github-downloader                  | *一款可以下单单个 Github 项目文件扩展程序，无需下载整个项目。* | https://chrome.google.com/webstore/detail/github-downloader/jplmabjbdhggnlhndkdfciacklbjcfel?hl=zh-CN |
-| BrowserStack                       | * 一款 WEB 网站浏览器兼容性测试的 Chrome 扩展。*             | https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=zh-CN |
+| GitHub 加速                        | *快速访问、下载 Github 的资源*                               | https://chrome.google.com/webstore/detail/github加速/mfnkflidjnladnkldfonnaicljppahpg |
+| BrowserStack                       | *一款 WEB 网站浏览器兼容性测试的 Chrome 扩展*                | https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=zh-CN |
 | WhatFont                           | *一款可以查看当前网页字体详细信息的扩展。*                   | https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=zh-CN |
 | 谷歌访问助手                       | *这个不需要多做介绍吧？!*                                    |                                                              |
 | Clear Cache                        | *点击图标即可清除缓存、cookie等，开发必备！*                 | https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=zh-CN |
