@@ -38,6 +38,7 @@
 | Evernote Web Clipper                | *它是有印象笔记 evernote 推出的一款剪藏扩展，可以一键收藏各类网页图文，并永久保存进 Evernote。同时，还能选择保存网页正文、隐藏广告、整个页面、网页截屏等，让你根据不同需求，选择保存内容。告别复制粘贴，高效收集资料。* | https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=zh-CN |
 | Adblock Plus                        | *免费广告拦截程序，缺点就是比较吃内存（相对的）*             | https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN |
 | uBlock Origin                       | *一款高效的网络请求过滤工具，占用极低的内存和  CPU。*        | https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=zh-CN |
+| 广告终结者                        | *清除网页上的所有广告：浮动广告，购物广告，恶意弹窗，跟踪代码。让你浏览网页更快更清爽。*             | https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl |
 | Google   翻译                       | *一款由谷歌公司提供的网页划词翻译扩展.。*                    | https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh-CN |
 | 达达划词翻译                        | *一款划词翻译、生词本、吐司弹词、与扇贝同步的翻译扩展.。*    | [https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl?hl=zh-CN](https://chrome.google.com/webstore/detail/达达划词翻译/cajhcjfcodjoalmhjekljnfkgjlkeajl?hl=zh-CN) |
 | LastPass                            | *一款免费的密码管理工具，只需要记得 LastPass 的主密码，保存你所有的用户名和密码。* | https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=zh-CN |
@@ -94,6 +95,8 @@
 | WhatRuns                           | *一款用于了解网站技术的chrome网站技术分析工具，主要能通过分析网站页面所使用的框架、代码等技术以及页面所使用的样式等方面，让使用者能直观的了解网站的整体技术信息。* | https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=zh-CN |
 | AlloyDesigner                      | *一款来自 Tencent AlloyTeam的前端开发工具，主要功能是加载Web页面的视觉稿，结合开发者工具(F12)进行页面的开发和调整。* | https://chrome.google.com/webstore/detail/alloydesigner/ojooeaohlmgpcjajikhmibcnbebfenid?hl=zh-CN |
 | Mosaic                             | 简单实用的配色灵感工具                                       | https://chrome.google.com/webstore/detail/mosaic/eimhoaekjnojedgcoikkiijnphklhfml?hl=zh-CN |
+| Android Developer Toolbox         | Android Developer 工具箱                                     | https://chrome.google.com/webstore/detail/android-developer-toolbox/ocedpblkiolaenkbnigalahapjepnanp |
+| YuiAPI         | 一个易于使用的 REST 客户端，帮助测试 API 的工具                                   | https://chrome.google.com/webstore/detail/yuiapi/bnmefgocpeggmnpkglmkfoidibbcogcf |
 
 ##### 社交工具类
 
