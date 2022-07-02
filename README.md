@@ -67,6 +67,8 @@
 | [Fiteprint](https://chrome.google.com/webstore/detail/fiteprint-current-site-hi/aifnngnkjcdamfofbfldbnighkjkkmbp?hl=zh-CN) | 帮助你梳理浏览记录的插件，让你的历史记录不再眼花缭乱。       |
 | [Bookmarkify](https://chrome.google.com/webstore/detail/bookmarkify/dnbnfomolmfanljmiaeenbmdefpiaadd?hl=zh-CN) | 为长文章加入章节标签，方便下次继续阅读。                     |
 | [Survol](https://chrome.google.com/webstore/detail/survol/fdnnmbmkgfdjclkgimonnimokhnndalk?hl=zh-CN) | 将鼠标悬停在超链接上，预览链接的内容。                       |
+| [NeatDownloadManager Extension](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) | 超好用的下载工具                       |
+| [Search to Play the Song](https://chrome.zzzmh.cn/info/anfmgjkkbagjfdejhbjdiapgkbhpigpm) | 一个直接搜歌即可听歌的工具，不用切来切去。                       |
 
 
 ### 📙 开发工具类
